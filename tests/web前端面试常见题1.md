@@ -10,8 +10,9 @@
 （6）服务器端：使用内容分发网络CDN；更多使用get而不是post；使用Gzip压缩传输文件；  
 （7）移动端：一次传送的内容大小尽量小，移动端缓存限制；把页面内容打包成复合文件，减少下载次数    
  <div align=center>  
-  <img src="https://github.com/ym652324/Web-front-end/blob/master/image/%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96.png" width = 80%  >   
+  <img src="https://github.com/ym652324/Web-front-end/blob/master/image/%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96.png" width = 80% >    
   </div>  
+  
 3. url->页面加载完成的整个流程  
 答：（1）dns寻址（将域名转化为IP地址）  
 （2）HTTP请求连接，进行TCP三次握手  
